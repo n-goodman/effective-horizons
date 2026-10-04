@@ -39,7 +39,7 @@ The ideas and questions are the author's. The formalisation, proofs, simulations
 
 ## Citation
 
-> N. Goodman, *Rungs, Voids and Effective Closure* (Papers 0, A–D), working papers, version 1, October 2026. https://github.com/<your-username>/effective-horizons
+> N. Goodman, *Rungs, Voids and Effective Closure* (Papers 0, A–D), working papers, version 1, October 2026. https://github.com/n-goodman/effective-horizons
 
 ## Licence
 
