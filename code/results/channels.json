@@ -1,0 +1,86 @@
+{
+ "baseline/A+P": {
+  "p_contact": 0.9675,
+  "mutual_now": 0.8625,
+  "oneway_frac": 0.6364086071517363,
+  "gscc": 0.19814833777333773,
+  "isolated": 0.2115311285936286
+ },
+ "baseline/P only": {
+  "p_contact": 0.9675,
+  "mutual_now": 0.13,
+  "oneway_frac": 0.977826204085894,
+  "gscc": 0.01874437368187368,
+  "isolated": 0.2525550838050838
+ },
+ "baseline/A only": {
+  "p_contact": 0.925,
+  "mutual_now": 0.665,
+  "oneway_frac": 0.7339316118689184,
+  "gscc": 0.12911543317793317,
+  "isolated": 0.3172952047952048
+ },
+ "baseline/none": {
+  "p_contact": 0.0,
+  "mutual_now": 0.0,
+  "oneway_frac": null,
+  "gscc": 0.0,
+  "isolated": 0.9975
+ },
+ "baseline/A + P(kappa0=1)": {
+  "p_contact": 0.9375,
+  "mutual_now": 0.85,
+  "oneway_frac": 0.6030451327042631,
+  "gscc": 0.19182944832944834,
+  "isolated": 0.2535814602064602
+ },
+ "baseline/A + P(kappa0=0.3)": {
+  "p_contact": 0.93,
+  "mutual_now": 0.7325,
+  "oneway_frac": 0.7001844418171942,
+  "gscc": 0.15017207098457097,
+  "isolated": 0.28826905039405043
+ },
+ "highpersist/A+P": {
+  "p_contact": 0.995,
+  "mutual_now": 0.9825,
+  "oneway_frac": 0.5303859476513606,
+  "gscc": 0.7667032273282274,
+  "isolated": 0.0047203282828282836
+ },
+ "highpersist/P only": {
+  "p_contact": 0.995,
+  "mutual_now": 0.9575,
+  "oneway_frac": 0.6787312642281556,
+  "gscc": 0.49987856587856583,
+  "isolated": 0.004970328282828282
+ },
+ "highpersist/A only": {
+  "p_contact": 0.94,
+  "mutual_now": 0.6975,
+  "oneway_frac": 0.7341679591986116,
+  "gscc": 0.1292065712065712,
+  "isolated": 0.2974774739149739
+ },
+ "highpersist/none": {
+  "p_contact": 0.0,
+  "mutual_now": 0.0,
+  "oneway_frac": null,
+  "gscc": 0.0,
+  "isolated": 0.9925
+ },
+ "highpersist/A + P(kappa0=1)": {
+  "p_contact": 0.965,
+  "mutual_now": 0.8925,
+  "oneway_frac": 0.6686547537807538,
+  "gscc": 0.3590972569097569,
+  "isolated": 0.12910094072594072
+ },
+ "highpersist/A + P(kappa0=0.3)": {
+  "p_contact": 0.955,
+  "mutual_now": 0.775,
+  "oneway_frac": 0.7108348828943822,
+  "gscc": 0.19963788295038293,
+  "isolated": 0.22631145243645243
+ }
+}
